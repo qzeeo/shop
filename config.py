@@ -1,3 +1,3 @@
-TELEGRAM_API_KEY = '7553953860:AAHOzNjZWvL74vLAOOUveTpWqfoRAKROsjc'
-COINBASE_COMMERCE_API_KEY = '273cfe01-614d-4696-bf19-e9b0542aa1da'
-YOUR_ADMIN_ID = 5135422155  # Replace with your admin Telegram ID
+TELEGRAM_API_KEY = 'your-telegram-api-key'
+COINBASE_COMMERCE_API_KEY = 'your-coinbase-commerce-api-key'
+YOUR_ADMIN_ID = 123456789  # Replace with your admin Telegram ID
