@@ -1,0 +1,6 @@
+{
+  "products": [
+    {"id": 1, "name": "Account 1", "price": 10},
+    {"id": 2, "name": "License Key 2", "price": 15}
+  ]
+}
